@@ -218,7 +218,5 @@ public class TicTacToe implements ActionListener{
 			buttons[i].setEnabled(false);
 		}
 		textField.setText("O Wins");
-	
-		
 	}
 }
